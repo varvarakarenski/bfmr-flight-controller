@@ -1,5 +1,12 @@
-**10/12/2026: Planning**  
-Flight Controller will be built in versions for scalability.  
+---
+title: "Baby's First Model Rocket: Flight Controller"
+author: "Varvara Karenski"
+description: ""
+created_at: "2026-10-12"
+---
+
+# **October 12:** Planning  
+I decided that the flight Controller will be built in versions for scalability.  
 PCB V1 Requirements:
 - Log altitude
 - Log acceleration
@@ -25,4 +32,4 @@ Ground station:
 A second Pico 2 with an RFM95W, plugged into my laptop by USB
 ```
 
-**Time Spent: 2 hours**
+**Total time Spent: 2 hours**
