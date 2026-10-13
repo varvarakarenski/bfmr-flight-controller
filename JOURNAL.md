@@ -8,14 +8,19 @@ created_at: "2026-10-12"
 # **October 12:** Planning
 
 <img src="./images/oct12.jpg" width="300" alt="Chalkboard scrawlings">
-Researched PCB flaws and tips, found inspo and design references, and safety protocols. 
-## Helpful Links: 
+
+Researched PCB flaws and tips, found inspo and design references, and safety protocols.
+
+## Helpful Links
+
 - https://github.com/The-Faulty/Lyra
-- https://magazine.raspberrypi.com/articles/starlight-model-rocket-flight-computer-vs-rockit-flight-computer 
-- https://altusmetrum.org/EasyMini/ 
+- https://magazine.raspberrypi.com/articles/starlight-model-rocket-flight-computer-vs-rockit-flight-computer
+- https://altusmetrum.org/EasyMini/
 - https://nar.org/ModelRocketSafetyCode 
-- https://www.nakka-rocketry.net/alti.html 
+- https://www.nakka-rocketry.net/alti.html
+
 Created Slack pitch in #forgery and organized all subprojects on forge hub.
+
 I decided that the flight controller will be built in versions for scalability.
 
 PCB V1 requirements:
