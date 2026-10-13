@@ -66,4 +66,6 @@ Plus supporting parts added during the schematic: crystal, decoupling capacitors
     - USB-C
 Lapse Links: [Video 1](https://lapse.hackclub.com/timelapse/LjykslA5CKux) + [Video 2](https://lapse.hackclub.com/timelapse/b83eedolHLvP) 
 
+<img src="./images/oct13.jpg" width="300" alt="Power Components on Schematic">
+
 **Total time spent: 3 hours**
