@@ -7,7 +7,7 @@ created_at: "2026-10-12"
 
 # **October 12:** Planning
 
-<img src="/images/oct12.jpg" width="300" alt="Chalkboard scrawlings">
+<img src="./images/oct12.jpg" width="300" alt="Chalkboard scrawlings">
 Researched PCB flaws and tips, found inspo and design references, and safety protocols. 
 ## Helpful Links: 
 - https://github.com/The-Faulty/Lyra
