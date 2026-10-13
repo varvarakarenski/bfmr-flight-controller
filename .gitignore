@@ -1,0 +1,5 @@
+.DS_Store
+.history/
+*.lck
+*-backups/
+fp-info-cache

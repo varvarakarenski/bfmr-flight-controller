@@ -28,7 +28,16 @@ def run_easyeda2kicad_from_file(input_file, output_dir="./lib/lcsc", python_exec
         print("No LCSC IDs found in input file.")
         return 0
 
+    # easyeda2kicad appends a duplicate symbol on re-import, so skip IDs already in a .kicad_sym
+    existing = "".join(
+        open(os.path.join(output_dir, name), encoding="utf-8").read()
+        for name in os.listdir(output_dir) if name.endswith(".kicad_sym")
+    )
+
     for idx, lcsc_id in enumerate(lines, start=1):
+        if f'"{lcsc_id}"' in existing:
+            print(f"[{idx}/{len(lines)}] Skipping {lcsc_id}: already in library")
+            continue
         cmd = [
             python_exec,
             "-m", "easyeda2kicad",

@@ -56,3 +56,6 @@ Plus supporting parts added during the schematic: crystal, decoupling capacitors
 - Firmware in C (STM32CubeIDE)
 
 **Total time spent: 4 hours**
+
+# **October 13**
+- Made KiCad library, imported all components
