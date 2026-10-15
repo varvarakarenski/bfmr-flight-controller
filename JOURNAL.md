@@ -70,3 +70,18 @@ Lapse Links: [Video 1](https://lapse.hackclub.com/timelapse/LjykslA5CKux) + [Vid
 <img src="./images/oct13.png" width="300" alt="Power Components on Schematic">
 
 **Total time spent: 3 hours**
+
+# **October 14**
+- Wired MicroSD pins according to documentation and Forge guide
+- Wired ICM-45686 according to appropriate mode of operation following Forge guide
+
+![Everything wired except microcontroller](oct14.png)
+
+## Next steps
+
+- Wire everything to the STM32 (auuuugghhh)
+- Firmware (soon)
+
+**Total time spent: 0.33 hours**
+
+Lapse Link: [Video 3](https://lapse.hackclub.com/timelapse/6RCx6wbuE2bz)
